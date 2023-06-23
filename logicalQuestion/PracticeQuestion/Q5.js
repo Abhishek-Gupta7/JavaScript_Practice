@@ -15,13 +15,3 @@ function findElement(arr){
     }
     return newArr;
 }
-
-
-// if(true){
-//     i = 10
-//     console.log(i);
-// }else{
-//     console.log(i);
-// }
-// console.log(i);
-// console.log(Number('               '));
